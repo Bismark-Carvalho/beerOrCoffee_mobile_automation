@@ -9,6 +9,8 @@ Projeto proposto como desafio pela empresa [BeerOrCoffee](https://beerorcoffee.c
 [Appium](https://github.com/appium/appium-desktop/releases/tag/v1.22.2),
 [Emulador Android](https://developer.android.com/studio?hl=pt-br)
 
+apk BeerOrCoffee v4.6.2
+
 
 ## Execute a classe
 
