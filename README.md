@@ -63,3 +63,4 @@ Funcionalidade: Login Page
     E clicar no botao CREATE AN ACCOUNT
     Entao o sistema deverar abrir a tela de criacao de conta
 ```
+Após a Execução, verificar as screenshots em target/screenshots
